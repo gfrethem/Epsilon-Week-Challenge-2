@@ -1,0 +1,11 @@
+.R1 {
+	background-color: red;
+}
+
+.R2, .R3 {
+	background-color: yellow;
+}
+
+.R4, .R5 {
+	background-color: green;
+}
